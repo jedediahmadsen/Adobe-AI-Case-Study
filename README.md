@@ -24,8 +24,6 @@ When Gutenberg invented moveable type, he transferred many of the same technique
 
 The Linotype machine and other ‘hot type’ machines streamlined the process even further and made typesetting easier albeit at the expense of some of the beauty of the text. 
 
-[https://fonts.google.com/knowledge/history\_of\_type/the\_tight\_not\_touching\_style](https://fonts.google.com/knowledge/history_of_type/the_tight_not_touching_style)
-
 ### Digital typesetting
 
 In the 1970s, digital typography began to replace the Linotype and Monotype machines. The history is long and varied but the remaining gold-standard typesetting engines are Tex, an open-source algorithm developed by Donald Knuth, and Adobe InDesign’s proprietary typesetting engine. 
