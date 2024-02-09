@@ -58,7 +58,7 @@ Adobe announced an internal initiative to fund a number of small internal “sta
 
 While Adobe’s current typesetting system is very good, it is certainly not perfect. This is also true of its open-source competitor, Tex. Both Tex and InDesign will “break” under different circumstances. LaTeX will allow words to overflow the margin and produce an error if it can’t find an optimal way to set the text. InDesign will sometimes produce text with very strange spacing and it also is prone to widows (breaking a page right before the last line of a paragraph so that it ends up by itself at the top of the page). if its algorithm fails.
 
-![LaTeX typesetting error](/images/LaTeX_typesetting error.png) 
+![LaTeX typesetting error](/images/LaTeX_typesetting_error.png) 
 
 However, neither Adobe nor the Tex open-source community has explored the possibility of using AI to typeset large blocks of text. As far as I can tell, no one has. There are a few proof-of-concept explorations in that direction, but no solid commercial applications have arrived yet. 
 
